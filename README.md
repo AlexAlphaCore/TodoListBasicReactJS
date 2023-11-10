@@ -1,3 +1,6 @@
+<h1>ADD TASKS</h1>
+It is very simple by tapping the add button and then entering what you want to do.
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
